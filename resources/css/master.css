@@ -1,0 +1,65 @@
+
+body {
+  font-family: 'ZCOOL KuaiLe', cursive;
+  /** font-family: "comic sans MS",sans-serif;**/
+  cursor: crosshair;
+  background-image: url(/Users/deancrawford/Documents/Projects/DeansBlog/resources/images/abstract-backdrop-background-921776.jpg);
+}
+
+p {
+  color: red;
+  font-family: fantasy, arial;
+  font-size: 1.5em;
+  text-indent: 40px;
+  text-transform: capitalize;
+  border: 4px dotted black;
+  background-color: white;
+}
+
+h1 {
+
+
+
+}
+
+h2 {
+  font-size: 2em;
+  text-align: center;
+  text-shadow: 6px 3px 5px red;
+  padding: 2px 2px 2px 2px;
+  border: 2px inset red;
+  width: 50%;
+  /** display: inline-block; **/
+}
+
+.title {
+  /** border: 4px dotted black; **/
+  font-size: 4em;
+  text-shadow: 6px 10px 10px blue;
+  text-align: center;
+  /** display: inline; **/
+  /** width: 50%; **/
+  color: teal;
+
+}
+
+.coding {
+  padding: 10px 10px 10px 10px;
+  opacity: 0.5;
+}
+
+.sections {
+  display: inline;
+  width: 50%;
+
+}
+
+
+.welcome {
+  width: 1000px;
+  justify-content: center;
+}
+
+header {
+  
+}
