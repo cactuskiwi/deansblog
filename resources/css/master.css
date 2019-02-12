@@ -3,7 +3,7 @@ body {
   font-family: 'ZCOOL KuaiLe', cursive;
   /** font-family: "comic sans MS",sans-serif;**/
   cursor: crosshair;
-  background-image: url(/Users/deancrawford/Documents/Projects/DeansBlog/resources/images/abstract-backdrop-background-921776.jpg);
+  background-image: url("deansblog/resources/images/abstract-backdrop-background-921776.jpg");
 }
 
 p {
@@ -57,7 +57,8 @@ h2 {
 .welcome {
   width: auto;
   justify-content: center;
-  margin: 10px 100px 40px 100px;
+  margin: 40px 100px 40px 100px;
+  padding: 30px;
 }
 
 header {
